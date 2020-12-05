@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+  </head>
+  <body>
+<a href="https://www.Google.com"target="blank">Google</a>
+<a href="https://www.Facebook.com"target="blank">Facebook</a>
+<a href="https://www.Youtube.com"target="blank">Youtube</a>
+<a href="https://www.Yahoo.com"target="blank">Yahoo</a> <br>
+  </body>
+</html>
